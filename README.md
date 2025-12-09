@@ -1,0 +1,2 @@
+# Analisis-Critico-de-la-Clasificacion-de-Exoplanetas-con-Aprendizaje-Supervisado---Notebooks
+Este artículo presenta un estudio empírico y un análisis crítico sobre la aplicación de algoritmos de aprendizaje supervisado clásico (regresión logística, KNN, SVM, árboles de decisión, métodos \textit{ensemble} y perceptrones multicapa) en la clasificación binaria de candidatos a exoplanetas del catálogo KOI, siguiendo un enfoque sistemático.
